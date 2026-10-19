@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="I study what neural networks learn, and how that knowledge moves between models. Right now I am testing whether a small model learns better when it is taught through a larger model's interpretable features instead of its raw activations. Before this I studied how LLM personas revise their beliefs, and built explainable models for medical imaging.">
+  <img src="assets/about.svg" width="100%" alt="I study what neural networks learn, and how that knowledge moves between models. For my senior project I am distilling the reasoning features a sparse autoencoder finds in a larger model into a smaller one, instead of its whole hidden states. Before this I studied how LLM personas revise their beliefs, and built explainable models for medical imaging.">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/card-distill.svg" width="49%" alt="Mechanistically Guided Distillation: sparse autoencoder features from layer 19 of an R1-distilled Llama 3 8B used as the hint for a Llama 3.2 1B student, compared against FitNets.">
+  <img src="assets/card-distill.svg" width="49%" alt="Mechanistically Guided Distillation: a 16x sparse autoencoder on layer 16 of Qwen3.5 4B, trained on AM DeepSeek R1 Distilled reasoning traces. The top 512 latents by ReasonScore are predicted by a small head on layer 12 of a Qwen3.5 2B student, trained jointly with logit distillation and cross entropy, and compared against the base student and a logit distillation baseline.">
   <a href="https://github.com/ahdilaw/llm-personas"><img src="assets/card-personas.svg" width="49%" alt="Deliberation Without Ego, preprint 2025: 100 GPT-5.2 personas polarize at twice the human partisan gap and update at 27 percent of the human magnitude."></a>
 </p>
 <p align="center">
