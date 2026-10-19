@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="About: I study what neural networks learn, and how that knowledge moves between models. Right now I am testing whether a small model learns better when it is taught through a larger model’s interpretable features instead of its raw activations. Before this I studied how LLM personas revise their beliefs, and built explainable models for medical imaging.">
+<title>About: I study what neural networks learn, and how that knowledge moves between models. Right now I am testing whether a small model learns better when it is taught through a larger model’s interpretable features instead of its raw activations. Before this I studied how LLM personas revise their beliefs, and built explainable models for medical imaging.</title>
+<defs>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".022"/></pattern>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".3" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+
+<clipPath id="clip"><rect width="840" height="190" rx="20"/></clipPath>
+</defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Roboto,Arial,sans-serif}
+.mono{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.08em}
+.fade{animation:fade .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes trv{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="840" height="190" fill="#0B0B0E"/>
+
+<path d="M35 26h9v3h-9zM32 29h3v3h-3zM44 29h3v3h-3zM32 32h3v3h-3zM41 32h6v3h-6zM32 35h3v3h-3zM38 35h3v3h-3zM44 35h3v3h-3zM32 38h6v3h-6zM44 38h3v3h-3zM32 41h3v3h-3zM44 41h3v3h-3zM35 44h9v3h-9zM53 26h9v3h-9zM50 29h3v3h-3zM62 29h3v3h-3zM50 32h3v3h-3zM59 32h6v3h-6zM50 35h3v3h-3zM56 35h3v3h-3zM62 35h3v3h-3zM50 38h6v3h-6zM62 38h3v3h-3zM50 41h3v3h-3zM62 41h3v3h-3zM53 44h9v3h-9z" fill="#6E6E73"/>
+<path d="M84 26h9v3h-9zM81 29h3v3h-3zM93 29h3v3h-3zM81 32h3v3h-3zM93 32h3v3h-3zM81 35h15v3h-15zM81 38h3v3h-3zM93 38h3v3h-3zM81 41h3v3h-3zM93 41h3v3h-3zM81 44h3v3h-3zM93 44h3v3h-3zM99 26h12v3h-12zM99 29h3v3h-3zM111 29h3v3h-3zM99 32h3v3h-3zM111 32h3v3h-3zM99 35h12v3h-12zM99 38h3v3h-3zM111 38h3v3h-3zM99 41h3v3h-3zM111 41h3v3h-3zM99 44h12v3h-12zM120 26h9v3h-9zM117 29h3v3h-3zM129 29h3v3h-3zM117 32h3v3h-3zM129 32h3v3h-3zM117 35h3v3h-3zM129 35h3v3h-3zM117 38h3v3h-3zM129 38h3v3h-3zM117 41h3v3h-3zM129 41h3v3h-3zM120 44h9v3h-9zM135 26h3v3h-3zM147 26h3v3h-3zM135 29h3v3h-3zM147 29h3v3h-3zM135 32h3v3h-3zM147 32h3v3h-3zM135 35h3v3h-3zM147 35h3v3h-3zM135 38h3v3h-3zM147 38h3v3h-3zM135 41h3v3h-3zM147 41h3v3h-3zM138 44h9v3h-9zM153 26h15v3h-15zM159 29h3v3h-3zM159 32h3v3h-3zM159 35h3v3h-3zM159 38h3v3h-3zM159 41h3v3h-3zM159 44h3v3h-3z" fill="#F5F5F7"/>
+<rect x="188" y="36" width="620" height="1" fill="#1F1F25"/>
+<rect x="188" y="35" width="4" height="3" fill="#FFB340" style="--d:616px;animation:trv 9s steps(154) infinite"/>
+<text x="32" y="92" class="sans fade" font-size="19" font-weight="600" fill="#F5F5F7">I study what neural networks learn, and how that knowledge moves between models.</text>
+<text x="32" y="122" class="sans fade" style="animation-delay:0.15s" font-size="15" fill="#A1A1A6">Right now I am testing whether a small model learns better when it is taught through a larger</text>
+<text x="32" y="144" class="sans fade" style="animation-delay:0.23s" font-size="15" fill="#A1A1A6">model’s interpretable features instead of its raw activations. Before this I studied how LLM</text>
+<text x="32" y="166" class="sans fade" style="animation-delay:0.31s" font-size="15" fill="#A1A1A6">personas revise their beliefs, and built explainable models for medical imaging.</text>
+<rect width="840" height="190" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="839" height="189" rx="19.5" fill="none" stroke="url(#rim)"/>
+</svg>

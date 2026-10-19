@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="334" viewBox="0 0 410 334" role="img" aria-label="Mechanistically Guided Distillation. In progress. Sparse autoencoder features from layer 19 of an R1-distilled Llama 3 8B used as the distillation hint for a Llama 3.2 1B student.">
+<title>Mechanistically Guided Distillation. In progress. Sparse autoencoder features from layer 19 of an R1-distilled Llama 3 8B used as the distillation hint for a Llama 3.2 1B student.</title>
+<defs>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".022"/></pattern>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".3" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+
+<clipPath id="clip"><rect width="410" height="334" rx="18"/></clipPath>
+</defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Roboto,Arial,sans-serif}
+.mono{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.08em}
+.fade{animation:fade .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes trv{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.sh{animation:sh 2.4s ease-in-out var(--d) infinite alternate}
+@keyframes sh{from{opacity:.25}to{opacity:1}}
+.fl{animation:fl var(--t) steps(2,end) var(--d) infinite}
+@keyframes fl{0%,100%{opacity:0}6%{opacity:1}18%{opacity:.8}26%{opacity:0}}
+.pk{animation:pk 2.2s steps(14,end) var(--d) infinite}
+@keyframes pk{0%{transform:translateX(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateX(56px);opacity:0}}
+.st{animation:st 2.2s ease-out var(--d) infinite}
+@keyframes st{0%,70%{opacity:.25}80%{opacity:1}100%{opacity:.25}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="410" height="334" fill="#0B0B0E"/>
+
+<rect x="16" y="16" width="378" height="150" rx="12" fill="#08080A" stroke="#1F1F25"/>
+<text x="52" y="38" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">TEACHER 8B</text>
+<text x="204.0" y="38" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">SAE LATENTS</text>
+<text x="356" y="38" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">STUDENT 1B</text>
+<path d="M62 52.5L124 52.5M62 52.5L124 65.5M62 52.5L124 78.5M62 52.5L124 91.5M62 52.5L124 104.5M62 52.5L124 117.5M62 52.5L124 130.5M62 52.5L124 143.5M62 65.5L124 52.5M62 65.5L124 65.5M62 65.5L124 78.5M62 65.5L124 91.5M62 65.5L124 104.5M62 65.5L124 117.5M62 65.5L124 130.5M62 65.5L124 143.5M62 78.5L124 52.5M62 78.5L124 65.5M62 78.5L124 78.5M62 78.5L124 91.5M62 78.5L124 104.5M62 78.5L124 117.5M62 78.5L124 130.5M62 78.5L124 143.5M62 91.5L124 52.5M62 91.5L124 65.5M62 91.5L124 78.5M62 91.5L124 91.5M62 91.5L124 104.5M62 91.5L124 117.5M62 91.5L124 130.5M62 91.5L124 143.5M62 104.5L124 52.5M62 104.5L124 65.5M62 104.5L124 78.5M62 104.5L124 91.5M62 104.5L124 104.5M62 104.5L124 117.5M62 104.5L124 130.5M62 104.5L124 143.5M62 117.5L124 52.5M62 117.5L124 65.5M62 117.5L124 78.5M62 117.5L124 91.5M62 117.5L124 104.5M62 117.5L124 117.5M62 117.5L124 130.5M62 117.5L124 143.5M62 130.5L124 52.5M62 130.5L124 65.5M62 130.5L124 78.5M62 130.5L124 91.5M62 130.5L124 104.5M62 130.5L124 117.5M62 130.5L124 130.5M62 130.5L124 143.5M62 143.5L124 52.5M62 143.5L124 65.5M62 143.5L124 78.5M62 143.5L124 91.5M62 143.5L124 104.5M62 143.5L124 117.5M62 143.5L124 130.5M62 143.5L124 143.5" stroke="#fff" stroke-opacity=".06" fill="none"/>
+<rect class="sh" x="40" y="48" width="9" height="9" fill="#FFB340" style="--d:-0.57s"/>
+<rect class="sh" x="40" y="61" width="9" height="9" fill="#FFB340" style="--d:-1.31s"/>
+<rect class="sh" x="40" y="74" width="9" height="9" fill="#FFB340" style="--d:-0.89s"/>
+<rect class="sh" x="40" y="87" width="9" height="9" fill="#FFB340" style="--d:-1.45s"/>
+<rect class="sh" x="40" y="100" width="9" height="9" fill="#FFB340" style="--d:-1.50s"/>
+<rect class="sh" x="40" y="113" width="9" height="9" fill="#FFB340" style="--d:-0.16s"/>
+<rect class="sh" x="40" y="126" width="9" height="9" fill="#FFB340" style="--d:-0.03s"/>
+<rect class="sh" x="40" y="139" width="9" height="9" fill="#FFB340" style="--d:-2.01s"/>
+<rect class="sh" x="53" y="48" width="9" height="9" fill="#FFB340" style="--d:-0.62s"/>
+<rect class="sh" x="53" y="61" width="9" height="9" fill="#FFB340" style="--d:-0.56s"/>
+<rect class="sh" x="53" y="74" width="9" height="9" fill="#FFB340" style="--d:-2.39s"/>
+<rect class="sh" x="53" y="87" width="9" height="9" fill="#FFB340" style="--d:-1.13s"/>
+<rect class="sh" x="53" y="100" width="9" height="9" fill="#FFB340" style="--d:-2.01s"/>
+<rect class="sh" x="53" y="113" width="9" height="9" fill="#FFB340" style="--d:-1.14s"/>
+<rect class="sh" x="53" y="126" width="9" height="9" fill="#FFB340" style="--d:-1.53s"/>
+<rect class="sh" x="53" y="139" width="9" height="9" fill="#FFB340" style="--d:-0.36s"/>
+<rect x="128" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="48" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="141" y="48" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.39s;--d:-0.95s"/>
+<rect x="154" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="167" y="48" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="167" y="48" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.87s;--d:-6.76s"/>
+<rect x="180" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="48" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="193" y="48" width="9" height="9" fill="#FFB340" opacity="0" style="--t:4.74s;--d:-4.39s"/>
+<rect x="206" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="219" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="48" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="232" y="48" width="9" height="9" fill="#FFB340" opacity="0" style="--t:4.20s;--d:-3.55s"/>
+<rect x="245" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="271" y="48" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="154" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="167" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="180" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="61" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="193" y="61" width="9" height="9" fill="#FFB340" opacity="0" style="--t:4.54s;--d:-2.46s"/>
+<rect x="206" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="219" y="61" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="219" y="61" width="9" height="9" fill="#FFB340" opacity="1" style="--t:5.34s;--d:-4.09s"/>
+<rect x="232" y="61" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="232" y="61" width="9" height="9" fill="#FFB340" opacity="0" style="--t:6.62s;--d:-4.77s"/>
+<rect x="245" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="271" y="61" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="154" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="167" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="180" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="206" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="219" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="245" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="74" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="258" y="74" width="9" height="9" fill="#FFB340" opacity="0" style="--t:6.72s;--d:-5.99s"/>
+<rect x="271" y="74" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="154" y="87" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="154" y="87" width="9" height="9" fill="#FFB340" opacity="0" style="--t:6.96s;--d:-4.70s"/>
+<rect x="167" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="180" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="206" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="219" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="245" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="87" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="258" y="87" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.65s;--d:-6.02s"/>
+<rect x="271" y="87" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="100" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="141" y="100" width="9" height="9" fill="#FFB340" opacity="0" style="--t:6.86s;--d:-6.33s"/>
+<rect x="154" y="100" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="154" y="100" width="9" height="9" fill="#FFB340" opacity="0" style="--t:5.28s;--d:-5.00s"/>
+<rect x="167" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="180" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="206" y="100" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="206" y="100" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.84s;--d:-5.82s"/>
+<rect x="219" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="100" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="232" y="100" width="9" height="9" fill="#FFB340" opacity="0" style="--t:5.29s;--d:-1.99s"/>
+<rect x="245" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="271" y="100" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="113" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="128" y="113" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.25s;--d:-5.98s"/>
+<rect x="141" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="154" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="167" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="180" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="206" y="113" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="206" y="113" width="9" height="9" fill="#FFB340" opacity="1" style="--t:6.96s;--d:-0.62s"/>
+<rect x="219" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="245" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="271" y="113" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="126" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="141" y="126" width="9" height="9" fill="#FFB340" opacity="0" style="--t:6.20s;--d:-2.87s"/>
+<rect x="154" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="167" y="126" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="167" y="126" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.60s;--d:-2.06s"/>
+<rect x="180" y="126" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="180" y="126" width="9" height="9" fill="#FFB340" opacity="0" style="--t:6.08s;--d:-6.11s"/>
+<rect x="193" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="206" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="219" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="245" y="126" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="245" y="126" width="9" height="9" fill="#FFB340" opacity="1" style="--t:3.18s;--d:-4.30s"/>
+<rect x="258" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="271" y="126" width="9" height="9" fill="#19191E"/>
+<rect x="128" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="141" y="139" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="141" y="139" width="9" height="9" fill="#FFB340" opacity="0" style="--t:3.18s;--d:-5.03s"/>
+<rect x="154" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="167" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="180" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="193" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="206" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="219" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="232" y="139" width="9" height="9" fill="#19191E"/>
+<rect class="fl" x="232" y="139" width="9" height="9" fill="#FFB340" opacity="0" style="--t:4.32s;--d:-6.17s"/>
+<rect x="245" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="258" y="139" width="9" height="9" fill="#19191E"/>
+<rect x="271" y="139" width="9" height="9" fill="#19191E"/>
+<rect class="pk" x="286" y="50.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-2.16s"/>
+<rect x="352" y="48" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="48" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-2.16s"/>
+<rect class="pk" x="286" y="63.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-1.11s"/>
+<rect x="352" y="61" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="61" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-1.11s"/>
+<rect class="pk" x="286" y="76.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-2.20s"/>
+<rect x="352" y="74" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="74" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-2.20s"/>
+<rect class="pk" x="286" y="89.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-0.68s"/>
+<rect x="352" y="87" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="87" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-0.68s"/>
+<rect class="pk" x="286" y="102.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-0.17s"/>
+<rect x="352" y="100" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="100" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-0.17s"/>
+<rect class="pk" x="286" y="115.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-1.32s"/>
+<rect x="352" y="113" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="113" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-1.32s"/>
+<rect class="pk" x="286" y="128.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-0.07s"/>
+<rect x="352" y="126" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="126" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-0.07s"/>
+<rect class="pk" x="286" y="141.5" width="4" height="4" fill="#FFB340" opacity="0" style="--d:-0.43s"/>
+<rect x="352" y="139" width="9" height="9" fill="#19191E"/>
+<rect class="st" x="352" y="139" width="9" height="9" fill="#F5F5F7" opacity=".25" style="--d:-0.43s"/>
+<text x="24" y="196" class="mono" font-size="9.5" fill="#FFB340">IN PROGRESS · MECH INTERP</text>
+<text x="24" y="223" class="sans" font-size="19" font-weight="600" fill="#F5F5F7">Mechanistically Guided Distillation</text>
+<text x="24" y="249" class="sans" font-size="13" fill="#A1A1A6">Teaching a 1B student through the sparse features</text>
+<text x="24" y="267" class="sans" font-size="13" fill="#A1A1A6">of an 8B teacher, not its raw activations. SAEs on</text>
+<text x="24" y="285" class="sans" font-size="13" fill="#A1A1A6">layer 19 of R1-distilled Llama 3, against FitNets.</text>
+<rect x="24" y="296" width="362" height="1" fill="#1F1F25"/>
+<text x="24" y="317" class="mono" font-size="9" fill="#6E6E73">L1 + MATRYOSHKA TOP-K SAES · OPENTHOUGHTS-114K</text>
+<rect width="410" height="334" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="409" height="333" rx="17.5" fill="none" stroke="url(#rim)"/>
+</svg>

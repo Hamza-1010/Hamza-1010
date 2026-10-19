@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="62" viewBox="0 0 840 62" role="img" aria-label="01 SELECTED WORK">
+<title>01 SELECTED WORK</title>
+<defs>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".022"/></pattern>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".3" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+
+<clipPath id="clip"><rect width="840" height="62" rx="16"/></clipPath>
+</defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Roboto,Arial,sans-serif}
+.mono{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.08em}
+.fade{animation:fade .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes trv{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="840" height="62" fill="#0B0B0E"/>
+
+<path d="M35 26h9v3h-9zM32 29h3v3h-3zM44 29h3v3h-3zM32 32h3v3h-3zM41 32h6v3h-6zM32 35h3v3h-3zM38 35h3v3h-3zM44 35h3v3h-3zM32 38h6v3h-6zM44 38h3v3h-3zM32 41h3v3h-3zM44 41h3v3h-3zM35 44h9v3h-9zM56 26h3v3h-3zM53 29h6v3h-6zM56 32h3v3h-3zM56 35h3v3h-3zM56 38h3v3h-3zM56 41h3v3h-3zM53 44h9v3h-9z" fill="#6E6E73"/>
+<path d="M84 26h12v3h-12zM81 29h3v3h-3zM81 32h3v3h-3zM84 35h9v3h-9zM93 38h3v3h-3zM93 41h3v3h-3zM81 44h12v3h-12zM99 26h15v3h-15zM99 29h3v3h-3zM99 32h3v3h-3zM99 35h12v3h-12zM99 38h3v3h-3zM99 41h3v3h-3zM99 44h15v3h-15zM117 26h3v3h-3zM117 29h3v3h-3zM117 32h3v3h-3zM117 35h3v3h-3zM117 38h3v3h-3zM117 41h3v3h-3zM117 44h15v3h-15zM135 26h15v3h-15zM135 29h3v3h-3zM135 32h3v3h-3zM135 35h12v3h-12zM135 38h3v3h-3zM135 41h3v3h-3zM135 44h15v3h-15zM156 26h9v3h-9zM153 29h3v3h-3zM165 29h3v3h-3zM153 32h3v3h-3zM153 35h3v3h-3zM153 38h3v3h-3zM153 41h3v3h-3zM165 41h3v3h-3zM156 44h9v3h-9zM171 26h15v3h-15zM177 29h3v3h-3zM177 32h3v3h-3zM177 35h3v3h-3zM177 38h3v3h-3zM177 41h3v3h-3zM177 44h3v3h-3zM189 26h15v3h-15zM189 29h3v3h-3zM189 32h3v3h-3zM189 35h12v3h-12zM189 38h3v3h-3zM189 41h3v3h-3zM189 44h15v3h-15zM207 26h12v3h-12zM207 29h3v3h-3zM219 29h3v3h-3zM207 32h3v3h-3zM219 32h3v3h-3zM207 35h3v3h-3zM219 35h3v3h-3zM207 38h3v3h-3zM219 38h3v3h-3zM207 41h3v3h-3zM219 41h3v3h-3zM207 44h12v3h-12zM243 26h3v3h-3zM255 26h3v3h-3zM243 29h3v3h-3zM255 29h3v3h-3zM243 32h3v3h-3zM255 32h3v3h-3zM243 35h3v3h-3zM249 35h3v3h-3zM255 35h3v3h-3zM243 38h3v3h-3zM249 38h3v3h-3zM255 38h3v3h-3zM243 41h3v3h-3zM249 41h3v3h-3zM255 41h3v3h-3zM246 44h3v3h-3zM252 44h3v3h-3zM264 26h9v3h-9zM261 29h3v3h-3zM273 29h3v3h-3zM261 32h3v3h-3zM273 32h3v3h-3zM261 35h3v3h-3zM273 35h3v3h-3zM261 38h3v3h-3zM273 38h3v3h-3zM261 41h3v3h-3zM273 41h3v3h-3zM264 44h9v3h-9zM279 26h12v3h-12zM279 29h3v3h-3zM291 29h3v3h-3zM279 32h3v3h-3zM291 32h3v3h-3zM279 35h12v3h-12zM279 38h3v3h-3zM285 38h3v3h-3zM279 41h3v3h-3zM288 41h3v3h-3zM279 44h3v3h-3zM291 44h3v3h-3zM297 26h3v3h-3zM309 26h3v3h-3zM297 29h3v3h-3zM306 29h3v3h-3zM297 32h3v3h-3zM303 32h3v3h-3zM297 35h6v3h-6zM297 38h3v3h-3zM303 38h3v3h-3zM297 41h3v3h-3zM306 41h3v3h-3zM297 44h3v3h-3zM309 44h3v3h-3z" fill="#F5F5F7"/>
+<rect x="332" y="36" width="386.0" height="1" fill="#1F1F25"/>
+<rect x="332" y="35" width="4" height="3" fill="#FFB340" style="--d:380px;animation:trv 9s steps(95) infinite"/>
+<text x="808" y="40" text-anchor="end" class="mono" font-size="10" fill="#6E6E73">4 PROJECTS</text>
+<rect width="840" height="62" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="839" height="61" rx="15.5" fill="none" stroke="url(#rim)"/>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="334" viewBox="0 0 410 334" role="img" aria-label="Measuring energy access, current work at the Power and Systems Lab, LUMS. World Bank Multi-Tier Framework tiers for 8,461 households in Pakistan, as groundwork for climate adaptation metrics.">
+<title>Measuring energy access, current work at the Power and Systems Lab, LUMS. World Bank Multi-Tier Framework tiers for 8,461 households in Pakistan, as groundwork for climate adaptation metrics.</title>
+<defs>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".022"/></pattern>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".3" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".04"/></linearGradient>
+
+<clipPath id="clip"><rect width="410" height="334" rx="18"/></clipPath>
+</defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue","Segoe UI",Inter,Roboto,Arial,sans-serif}
+.mono{font-family:"SF Mono",SFMono-Regular,ui-monospace,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.08em}
+.fade{animation:fade .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes trv{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.ch{animation:ch 4.8s ease-in-out var(--d) infinite}
+@keyframes ch{0%{opacity:0}8%,62%{opacity:1}78%,100%{opacity:0}}
+.sel{animation:sel 8.4s steps(1) var(--d) infinite}
+@keyframes sel{0%,14%{opacity:1}14.3%,100%{opacity:0}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="410" height="334" fill="#0B0B0E"/>
+
+<rect x="16" y="16" width="378" height="150" rx="12" fill="#08080A" stroke="#1F1F25"/>
+<path d="M44 133h20v5h-20zM44 126h20v5h-20z" fill="#19191E"/>
+<path class="ch" d="M44 133h20v5h-20zM44 126h20v5h-20z" fill="#FFB340" opacity="1" style="--d:0.00s"/>
+<text x="54" y="156" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">T0</text>
+<path d="M72 133h20v5h-20zM72 126h20v5h-20zM72 119h20v5h-20zM72 112h20v5h-20z" fill="#19191E"/>
+<path class="ch" d="M72 133h20v5h-20zM72 126h20v5h-20zM72 119h20v5h-20zM72 112h20v5h-20z" fill="#FFB340" opacity="1" style="--d:0.32s"/>
+<text x="82" y="156" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">T1</text>
+<path d="M100 133h20v5h-20zM100 126h20v5h-20zM100 119h20v5h-20zM100 112h20v5h-20zM100 105h20v5h-20zM100 98h20v5h-20z" fill="#19191E"/>
+<path class="ch" d="M100 133h20v5h-20zM100 126h20v5h-20zM100 119h20v5h-20zM100 112h20v5h-20zM100 105h20v5h-20zM100 98h20v5h-20z" fill="#FFB340" opacity="1" style="--d:0.64s"/>
+<text x="110" y="156" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">T2</text>
+<path d="M128 133h20v5h-20zM128 126h20v5h-20zM128 119h20v5h-20zM128 112h20v5h-20zM128 105h20v5h-20zM128 98h20v5h-20zM128 91h20v5h-20zM128 84h20v5h-20z" fill="#19191E"/>
+<path class="ch" d="M128 133h20v5h-20zM128 126h20v5h-20zM128 119h20v5h-20zM128 112h20v5h-20zM128 105h20v5h-20zM128 98h20v5h-20zM128 91h20v5h-20zM128 84h20v5h-20z" fill="#FFB340" opacity="0" style="--d:0.96s"/>
+<text x="138" y="156" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">T3</text>
+<path d="M156 133h20v5h-20zM156 126h20v5h-20zM156 119h20v5h-20zM156 112h20v5h-20zM156 105h20v5h-20zM156 98h20v5h-20zM156 91h20v5h-20zM156 84h20v5h-20zM156 77h20v5h-20zM156 70h20v5h-20z" fill="#19191E"/>
+<path class="ch" d="M156 133h20v5h-20zM156 126h20v5h-20zM156 119h20v5h-20zM156 112h20v5h-20zM156 105h20v5h-20zM156 98h20v5h-20zM156 91h20v5h-20zM156 84h20v5h-20zM156 77h20v5h-20zM156 70h20v5h-20z" fill="#FFB340" opacity="0" style="--d:1.28s"/>
+<text x="166" y="156" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">T4</text>
+<path d="M184 133h20v5h-20zM184 126h20v5h-20zM184 119h20v5h-20zM184 112h20v5h-20zM184 105h20v5h-20zM184 98h20v5h-20zM184 91h20v5h-20zM184 84h20v5h-20zM184 77h20v5h-20zM184 70h20v5h-20zM184 63h20v5h-20zM184 56h20v5h-20z" fill="#19191E"/>
+<path class="ch" d="M184 133h20v5h-20zM184 126h20v5h-20zM184 119h20v5h-20zM184 112h20v5h-20zM184 105h20v5h-20zM184 98h20v5h-20zM184 91h20v5h-20zM184 84h20v5h-20zM184 77h20v5h-20zM184 70h20v5h-20zM184 63h20v5h-20zM184 56h20v5h-20z" fill="#FFB340" opacity="0" style="--d:1.60s"/>
+<text x="194" y="156" text-anchor="middle" class="mono" font-size="8.5" fill="#6E6E73">T5</text>
+<text x="40" y="40" class="mono" font-size="8.5" fill="#6E6E73">ENERGY ACCESS TIER</text>
+<rect x="222" y="34" width="1" height="122" fill="#1F1F25"/>
+<text x="246" y="40" class="mono" font-size="8.5" fill="#6E6E73">ATTRIBUTES</text>
+<text x="246" y="62.0" class="mono" font-size="8.5" fill="#6E6E73">CAPACITY</text>
+<g class="sel" opacity="1" style="--d:0.0s"><rect x="234" y="56.0" width="5" height="5" fill="#FFB340"/><text x="246" y="62.0" class="mono" font-size="8.5" fill="#F5F5F7">CAPACITY</text></g>
+<text x="246" y="76.5" class="mono" font-size="8.5" fill="#6E6E73">AVAILABILITY</text>
+<g class="sel" opacity="0" style="--d:1.2s"><rect x="234" y="70.5" width="5" height="5" fill="#FFB340"/><text x="246" y="76.5" class="mono" font-size="8.5" fill="#F5F5F7">AVAILABILITY</text></g>
+<text x="246" y="91.0" class="mono" font-size="8.5" fill="#6E6E73">RELIABILITY</text>
+<g class="sel" opacity="0" style="--d:2.4s"><rect x="234" y="85.0" width="5" height="5" fill="#FFB340"/><text x="246" y="91.0" class="mono" font-size="8.5" fill="#F5F5F7">RELIABILITY</text></g>
+<text x="246" y="105.5" class="mono" font-size="8.5" fill="#6E6E73">QUALITY</text>
+<g class="sel" opacity="0" style="--d:3.6s"><rect x="234" y="99.5" width="5" height="5" fill="#FFB340"/><text x="246" y="105.5" class="mono" font-size="8.5" fill="#F5F5F7">QUALITY</text></g>
+<text x="246" y="120.0" class="mono" font-size="8.5" fill="#6E6E73">AFFORDABILITY</text>
+<g class="sel" opacity="0" style="--d:4.8s"><rect x="234" y="114.0" width="5" height="5" fill="#FFB340"/><text x="246" y="120.0" class="mono" font-size="8.5" fill="#F5F5F7">AFFORDABILITY</text></g>
+<text x="246" y="134.5" class="mono" font-size="8.5" fill="#6E6E73">FORMALITY</text>
+<g class="sel" opacity="0" style="--d:6.0s"><rect x="234" y="128.5" width="5" height="5" fill="#FFB340"/><text x="246" y="134.5" class="mono" font-size="8.5" fill="#F5F5F7">FORMALITY</text></g>
+<text x="246" y="149.0" class="mono" font-size="8.5" fill="#6E6E73">HEALTH &amp; SAFETY</text>
+<g class="sel" opacity="0" style="--d:7.2s"><rect x="234" y="143.0" width="5" height="5" fill="#FFB340"/><text x="246" y="149.0" class="mono" font-size="8.5" fill="#F5F5F7">HEALTH &amp; SAFETY</text></g>
+<text x="24" y="196" class="mono" font-size="9.5" fill="#FFB340">NOW · POWER &amp; SYSTEMS LAB, LUMS</text>
+<text x="24" y="223" class="sans" font-size="19" font-weight="600" fill="#F5F5F7">Measuring Energy Access</text>
+<text x="24" y="249" class="sans" font-size="13" fill="#A1A1A6">Deriving World Bank Multi-Tier Framework tiers for</text>
+<text x="24" y="267" class="sans" font-size="13" fill="#A1A1A6">8,461 households in Pakistan, as groundwork for</text>
+<text x="24" y="285" class="sans" font-size="13" fill="#A1A1A6">climate adaptation metrics.</text>
+<rect x="24" y="296" width="362" height="1" fill="#1F1F25"/>
+<text x="24" y="317" class="mono" font-size="9" fill="#6E6E73">MTF TIERS 0–5 · HOUSEHOLD SURVEY DATA</text>
+<rect width="410" height="334" fill="url(#scan)"/>
+</g>
+<rect x=".5" y=".5" width="409" height="333" rx="17.5" fill="none" stroke="url(#rim)"/>
+</svg>
