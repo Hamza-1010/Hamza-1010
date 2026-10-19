@@ -19,12 +19,12 @@
   <a href="https://github.com/ahdilaw/llm-personas"><img src="assets/card-personas.svg" width="49%" alt="Deliberation Without Ego, preprint 2025: 100 GPT-5.2 personas polarize at twice the human partisan gap and update at 27 percent of the human magnitude."></a>
 </p>
 <p align="center">
-  <img src="assets/card-tb.svg" width="49%" alt="Multimodal TB detection: distilled EfficientViT on 4,200 chest X-rays fused with a symptom MLP, 94 percent F1, explained with Grad-CAM and SHAP.">
-  <img src="assets/card-mtf.svg" width="49%" alt="Measuring energy access: World Bank Multi-Tier Framework tiers for 8,461 households in Pakistan, groundwork for climate adaptation metrics.">
+  <img src="assets/card-tb.svg" width="49%" alt="Multimodal TB detection: distilled EfficientViT on 4,200 chest X-rays fused with a symptom MLP, 94 percent F1 and 97 percent accuracy. Grad-CAM explains the X-ray predictions; SHAP ranks cough, night sweats, chills and loss of appetite as the top symptoms.">
+  <img src="assets/card-mtf.svg" width="49%" alt="Energy-led adaptation metrics: a climate adaptation metric built on World Bank Multi-Tier Framework energy tiers, covering land use, water, agriculture, forestry, livelihoods and gender across six or more EU and LMIC contexts. First step: tiers for 8,461 households in Pakistan.">
 </p>
 
 <p align="center">
-  <img src="assets/path.svg" width="100%" alt="Path: 2023 research intern at CSaLT, LUMS. 2024 data engineering intern at Systems Limited. 2024 teaching assistant, CS 200. 2026 BS Computer Science, LUMS, Dean's Honour List. Now Research Assistant, Power and Systems Lab. Next, a PhD in mechanistic interpretability.">
+  <img src="assets/path.svg" width="100%" alt="Path: 2023 research intern at CSaLT, LUMS. 2024 data engineering intern at Systems Limited. 2024 teaching assistant, CS 200. 2026 BS Computer Science, LUMS, Dean's Honour List. Now Research Assistant, Power and Systems Lab, working on adaptation metrics. Next, a PhD in mechanistic interpretability.">
 </p>
 
 <p align="center">
